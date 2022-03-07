@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Tech Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dapierrot21](https://github.com/dapierrot21)
-
 - 📫 How to reach me **dapierrot21@gmail.com**
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ab0c2a87-5df5-3d12-91c6-cec4d3cbdf69](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ab0c2a87-5df5-3d12-91c6-cec4d3cbdf69)
