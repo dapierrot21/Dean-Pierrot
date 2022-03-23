@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dean Pierrot</h1>
 <h3 align="center">I'm an innovative optimized solution seeker.</h3>
 
-- 🔭 I’m currently working on [Tech-Shinobi](https://github.com/dapierrot21/Tech-Shinobi)
+- 🔭 I’m currently working on [Feedback-Tracker](https://github.com/dapierrot21/Feedback-Tracker)
 
 - 🌱 I’m currently learning **MERN Tech Stack**
 
