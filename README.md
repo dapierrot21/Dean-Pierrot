@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dean Pierrot</h1>
 <h3 align="center">I'm an innovative optimized solution seeker.</h3>
 
-- 🔭 I’m currently working on [Feedback-Tracker](https://github.com/dapierrot21/Feedback-Tracker)
+- 🔭 I’m currently working on [Homemade_Goods](https://github.com/dapierrot21/Homemade_Goods)
 
 - 🌱 I’m currently learning **MERN Tech Stack**
 
 - 📫 How to reach me **dapierrot21@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:9e9335fd-a86d-3820-a717-34200b76e90c](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:9e9335fd-a86d-3820-a717-34200b76e90c)
+- 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3dfc7d4e-04ee-3367-b31d-ef52c704a145](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3dfc7d4e-04ee-3367-b31d-ef52c704a145)
 
 - ⚡ Fun fact **I love Batman and Naruto**
 
