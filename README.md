@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dapierrot21@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3dfc7d4e-04ee-3367-b31d-ef52c704a145](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3dfc7d4e-04ee-3367-b31d-ef52c704a145)
+- 📄 Know about my experiences [Resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3dfc7d4e-04ee-3367-b31d-ef52c704a145)
 
 - ⚡ Fun fact **I love Batman and Naruto**
 
