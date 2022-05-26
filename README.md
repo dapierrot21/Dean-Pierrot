@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dpwebdevelopment21@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f91f9dd2-0184-3993-ba25-7be9cde31fde](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f91f9dd2-0184-3993-ba25-7be9cde31fde)
+- 📄 Know about my experiences [Resume 2022](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f91f9dd2-0184-3993-ba25-7be9cde31fde)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
