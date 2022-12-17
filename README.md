@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dean Pierrot</h1>
 <h3 align="center">I'm an innovative optimized solution seeker. Excited to be at the deployment phase of my new career as a Full Stack Engineer. Experience in developing and testing code. Seeking a full-time software development position to deliver solutions to business needs.</h3>
 
-- 🔭 I’m currently working on [Homemade_Goods](https://github.com/dapierrot21/Homemade_Goods)
+- 🔭 I’m currently working on [tts-hangman-console]([https://github.com/dapierrot21/tts-hangman-console])
 
 - 🌱 I’m currently learning **Python and the MERN stack**
 
