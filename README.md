@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [tts-hangman-console](https://github.com/dapierrot21/tts-hangman-console)
 
 - 🌱 I’m currently learning **Python and the MERN stack**
-
+<!-- 
 - 👨‍💻 All of my projects are available at [https://dpwebdevelopment.herokuapp.com/](https://dpwebdevelopment.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://dpwebdevelopment.herokuapp.com/blog/](https://dpwebdevelopment.herokuapp.com/blog/)
+- 📝 I regularly write articles on [https://dpwebdevelopment.herokuapp.com/blog/](https://dpwebdevelopment.herokuapp.com/blog/) -->
 
 - 📫 How to reach me **dpwebdevelopment21@gmail.com**
 
